@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/mac/Battlefield/C#/C#.csproj",
-      "projectName": "C#",
-      "projectPath": "/Users/mac/Battlefield/C#/C#.csproj",
+      "projectUniqueName": "/Users/mac/Battlefield/c_trials/c_trials.csproj",
+      "projectName": "c_trials",
+      "projectPath": "/Users/mac/Battlefield/c_trials/c_trials.csproj",
       "packagesPath": "/Users/mac/.nuget/packages/",
-      "outputPath": "/Users/mac/Battlefield/C#/obj/",
+      "outputPath": "/Users/mac/Battlefield/c_trials/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/mac/.nuget/NuGet/NuGet.Config"

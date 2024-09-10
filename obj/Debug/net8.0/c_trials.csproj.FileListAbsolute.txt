@@ -1,0 +1,14 @@
+/Users/mac/Battlefield/c_trials/bin/Debug/net8.0/c_trials
+/Users/mac/Battlefield/c_trials/bin/Debug/net8.0/c_trials.deps.json
+/Users/mac/Battlefield/c_trials/bin/Debug/net8.0/c_trials.runtimeconfig.json
+/Users/mac/Battlefield/c_trials/bin/Debug/net8.0/c_trials.dll
+/Users/mac/Battlefield/c_trials/bin/Debug/net8.0/c_trials.pdb
+/Users/mac/Battlefield/c_trials/obj/Debug/net8.0/c_trials.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Battlefield/c_trials/obj/Debug/net8.0/c_trials.AssemblyInfoInputs.cache
+/Users/mac/Battlefield/c_trials/obj/Debug/net8.0/c_trials.AssemblyInfo.cs
+/Users/mac/Battlefield/c_trials/obj/Debug/net8.0/c_trials.csproj.CoreCompileInputs.cache
+/Users/mac/Battlefield/c_trials/obj/Debug/net8.0/c_trials.dll
+/Users/mac/Battlefield/c_trials/obj/Debug/net8.0/refint/c_trials.dll
+/Users/mac/Battlefield/c_trials/obj/Debug/net8.0/c_trials.pdb
+/Users/mac/Battlefield/c_trials/obj/Debug/net8.0/c_trials.genruntimeconfig.cache
+/Users/mac/Battlefield/c_trials/obj/Debug/net8.0/ref/c_trials.dll
